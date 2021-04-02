@@ -3,7 +3,7 @@
 #include<math.h>
 main()
 { int a,b;
- int *pointer_1, *pointer_2;
+ int *pointer_1, *pointer_2;//point to a and b
  a=100;b=10;
  pointer_1=&a;
 pointer_2=&b;
